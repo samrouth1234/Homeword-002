@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Khmer', sans-serif;
+    
+}
+body{
+    margin: 0px 70px 70px 70px;
+    background-color:white;
+}
+header{
+    background-image: url(https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2022-03/ocean_0.jpg?h=2f83cd36&itok=KIa1F6id);
+    height: 100vb;
+    flex-wrap: wrap;
+}
+.head-5{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    padding: 15px;
+    font-weight: 700;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    height: 100vb;
+    justify-content: center;
+}
+.header-3{
+    color:rgb(8, 11, 98) ;
+    font-size: 23px;
+    font-weight: bold;
+}
+.but{
+    height: 50px;
+    width: 130px;
+    font-size: 20px;
+    margin-top: 15px;
+    color:rgb(8, 11, 98) ;
+    font-weight: bold;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.containeer{
+    flex-wrap: wrap;
+    text-align: center; 
+    color:rgb(9, 15, 176) ;
+    margin-bottom: 50px;
+    
+}
+.containeer>h2{
+    margin: 20px;
+    font-weight: bolder;
+}
+.containeer,.para-1{
+    font-size: 20px;
+}
+.card{
+    flex-wrap: wrap;
+    margin: 40px 0px 40px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.para-1{
+    text-align:justify; 
+    font-size: 22.5px; 
+}
+.para-2{
+    text-align: center;
+}
+.imge-1>img{
+    width: 570px;
+}
+.card-2{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.card-3 >h2{
+    font-weight: bolder;
+}
+.card-3>h3{
+    margin: 20px;
+}
+.card-3{
+    padding: 50px ;
+    font-size: 22px;
+    flex-wrap: wrap;
+}
+.para-3{
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+.Services{
+    text-align: center;
+    color:#070b77;
+    flex-wrap: wrap;
+}
+
+.services-1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sercives-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.fa-solid{
+    height: 90px;
+    font-size: 78px;
+}
+.icon{
+    margin: 50px;
+}
+em{
+    color: #5b5fcf;
+    font-size: 15px;
+}
+.Services .icon h2{
+    margin: 15px;
+}
+.gallery ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.gallery ul li{
+    list-style-type: none;
+}
+.imge{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row-1 {
+    width: 351px;
+}
+.row-2{
+    width: 527px;
+    height: 526px;
+}
+.row-3 {
+    width: 296px;
+    height: 526px;
+}
+img.row-3\.1 {
+    width: 572px;
+    height: 526px;
+}
+img.row-4\.1 {
+    width: 610px;
+}
+img.row-4\.3 {
+    width: 270px;
+}
+img.row-5\.1 {
+    width: 440px;
+}
+img.row-6 {
+    width: 642px;
+}
+img.row-6\.1 {
+    width: 238px;
+    height: 428px;
+}
+img.row-7 {
+    width: 352px;
+}
+img.row-8 {
+    width: 680px;
+}
+img.row-8\.1 {
+    width: 400px;
+    height: 454px;
+}
+img.row-9 {
+    width: 580px;
+    height: 450px;
+}
+img.row-9\.1 {
+    width: 300px;
+}
